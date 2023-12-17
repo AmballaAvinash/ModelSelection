@@ -11,4 +11,12 @@ Instruction to run the code:
 
 Notes:
 1. We recommend running these notebooks on colab
+2. Use same version as below to prevent version issues
+   numpy = 1.24.3
+   pandas = 1.5.3
+   scikit-learn = 1.1.2
+   statsmodels = 0.14.0
+   shap  = 0.42.1
+   matplotlib = 3.8.0
+   
 
